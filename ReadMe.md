@@ -102,3 +102,7 @@ form wencoding
 
 config(config().encoderConfig(EncoderConfig.encoderConfig().appendDefaultContentCharsetToContentTypeIfUndefined(false)))
 ```
+
+# useful links
+
+https://github.com/Anshul-Sonpure/TestGraphQL/blob/master/src/test/java/TestGetCall.java
